@@ -45,6 +45,10 @@
 	   <td><a href="pages/datas.jsp">Calculando datas</td>
 	 </tr>
 	 
+	 <tr>
+	   <td><a href="pages/ganttView.jsp">Gantt View</td>
+	 </tr>
+	 
 	  <tr>
 	   <td><a href="pages/ServletAutenticacao?deslogar=true">Deslogar</a></td>
 	 </tr>

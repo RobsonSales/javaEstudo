@@ -44,7 +44,7 @@ $(document).ready(function() {
 	
 	$.get( "buscarCalendarioData", function(response) { //Inicio do Ajax Get servilet
 	
-		var datas = response;
+		var datas = JSON.parse(response);
 	
 		/* datas = {
 	          title: 'All Day Event',
