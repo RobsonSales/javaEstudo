@@ -41,6 +41,10 @@
 	   <td><a href="pages/relatorios.jsp">Relatorios</td>
 	 </tr>
 	 
+	 <tr>
+	   <td><a href="pages/datas.jsp">Calculando datas</td>
+	 </tr>
+	 
 	  <tr>
 	   <td><a href="pages/ServletAutenticacao?deslogar=true">Deslogar</a></td>
 	 </tr>
